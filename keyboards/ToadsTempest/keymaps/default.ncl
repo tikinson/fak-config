@@ -11,8 +11,8 @@ let MO = hold.reg.layer in
     layers = [
         [   # Layer 0 qwerty
             kc.TAB,    kc.Q,    kc.W,    kc.E,    kc.R,    kc.T,    kc.Y,    kc.U,    kc.I,    kc.O,    kc.P,    kc.ESC,
-            md.lsft,   kc.A,    kc.S,    kc.D,    kc.F,    kc.G,    kc.H,    kc.J,    kc.K,    kc.L,    kc.SCLN  kc.QUOT,
-            md.lctl,   kc.Z     kc.X,    kc.C,    kc.V,    kc.B,    kc.N,    kc.M,    kc.",",  kc.".",  kc.SLSH, md.lalt,
+            md.lsft,   kc.A,    kc.S,    kc.D,    kc.F,    kc.G,    kc.H,    kc.J,    kc.K,    kc.L,    kc.SCLN,  kc.QUOT,
+            md.lctl,   kc.Z,    kc.X,    kc.C,    kc.V,    kc.B,    kc.N,    kc.M,    kc.",",  kc.".",  kc.SLSH, md.lalt,
             kc.SPC,    MO 1,    md.lgui, kc.BSPC, MO 2,    kc.ENT,
         ],
 
